@@ -1,0 +1,43 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "empName": "admin",
+      "empFirstName": "admin",
+      "empLastName": "",
+      "empBirthDate": "",
+      "empSystemAccess": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "employeeId": "1",
+      "usrEmail": "admin@mail.com",
+      "usrName": "admin",
+      "usrPassword": "12r1sd23r",
+      "usrAreas": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "1",
+      "joaName": "Area 1",
+      "joaAbbreviation": "A1"
+    },
+    {
+      "id": "2",
+      "joaName": "Area 2",
+      "joaAbbreviation": "A2"
+    },
+    {
+      "id": "3",
+      "joaName": "Area 3",
+      "joaAbbreviation": "A3"
+    }
+  ]
+}
